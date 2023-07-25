@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marcel James V. Aribal</h1>
-<h3 align="center">I'm a Django Web Developer.</h3>
+<h3 align="center">I'm a Software Engineer.</h3>
 
 
 - 🌱 I’m currently learning **ReactJs,TailwindCss,**
