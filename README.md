@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Marcel James V. Aribal</h1>
-<h3 align="center">I'm a Software Engineer.</h3>
+<h1 align="center">Hola , I'm Marcel James V. Aribal</h1>
+<h3 align="center">Course: Bachelor of Science in Computer Engineering</h3>
 
 
 - 🌱 I’m currently learning **ReactJs,TailwindCss,**
