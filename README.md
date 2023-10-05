@@ -1,8 +1,8 @@
 <h1>I'm a Software Engineer & Web Developer</h1>
 <br>
-- 🌱 I’m currently learning **ReactJs,TailwindCss,**
+- 🌱 I’m currently learning **MERN Stack**
 
-- 💬 Ask me about **Django, DRF**
+- 💬 Ask me about **Django, DRF, Flask**
 
 - 📫 How to reach me **marcelaribal963@gmail.com**
 
