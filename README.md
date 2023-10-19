@@ -1,6 +1,7 @@
+Hello! My name is Marcel James V. Aribal, a Computer Engineering Student with a passion for coding/programming. Proficient in Python Web Development. 
 ```python
 
-class Mjdev(web.Webdev):
+class Developer(BaseModel):
 
   def __str__(self):
     self.name = "Marcel James V. Aribal"
