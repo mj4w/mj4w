@@ -13,6 +13,6 @@ class Developer(ModelView):
     frameworks = ['Django', 'Django REST Framework', 'Flask', 'Express', 'React']
     databases = ['PostgreSQL', 'MySQL', 'SQLite', 'MongoDB']
     deployment = ['heroku', 'vercel', 'github-pages' , 'DigitalOcean']
-    os = ['Windows only']
+    os = ['Windows','Linux']
 ```
 
