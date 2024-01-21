@@ -9,7 +9,7 @@ class Developer(ModelView):
     self.location = "Bulacan"
     
   def skills(self):
-    languages = ['Python', 'Javascript', 'C++']
+    languages = ['Python', 'Javascript', 'C++', 'PHP']
     frameworks = ['Django', 'Django REST Framework', 'Flask', 'Express', 'React']
     databases = ['PostgreSQL', 'MySQL', 'SQLite', 'MongoDB']
     deployment = ['heroku', 'vercel', 'github-pages' , 'DigitalOcean']
