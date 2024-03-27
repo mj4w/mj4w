@@ -16,9 +16,9 @@ class Developer(ModelView):
     os = ['Windows','Linux']
 ```
 
-<p align="center">
+<!-- <p align="center">
 <!-- <img align="left" width="250" src="http://pa1.narvii.com/6184/7bb2f1a0a502c787559b3e0032205d1c21b570cd_00.gif" /> -->
-<img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mj4w&theme=gruvbox&layout=compact&hide_border=true"
+<!-- <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mj4w&theme=gruvbox&layout=compact&hide_border=true"
 alt="mj4w :: Top Langs by repo" />
 <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mj4w&theme=gruvbox&layout=compact&hide_border=true"
 alt="mj4w :: Top Langs by commit" />
