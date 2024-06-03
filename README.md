@@ -10,9 +10,9 @@ class Developer(ModelView):
     
   def skills(self):
     languages = ['Python', 'Javascript', 'C++', 'PHP']
-    frameworks = ['Django', 'Django REST Framework', 'Flask', 'Express', 'React']
+    frameworks = ['Django', 'DRF', 'Flask', 'Express', 'React']
     databases = ['PostgreSQL', 'MySQL', 'SQLite', 'MongoDB']
-    deployment = ['heroku', 'vercel', 'github-pages' , 'DigitalOcean']
+    deployment = ['heroku', 'vercel', 'github-pages', 'DigitalOcean', 'netlify', 'AWS']
     os = ['Windows','Linux']
 ```
 
