@@ -1,4 +1,4 @@
-<h1 align="center">Ola!</h1>
+<h1 align="center">@pyscript</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mj4w&label=Profile%20views&color=0e75b6&style=flat" alt="" /> •  
